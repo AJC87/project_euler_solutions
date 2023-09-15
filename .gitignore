@@ -2,3 +2,8 @@
 # C
 *.out
 solution
+
+# C#
+bin/
+obj/
+
