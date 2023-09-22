@@ -2,9 +2,12 @@ package main
 
 import "fmt"
 
+const (
+	start = 3
+	finish = 1000
+)
+
 func main() {
-	start := 3
-	finish := 1000
 	sum := 0
 
 	for i := start; i < finish; i++ {
