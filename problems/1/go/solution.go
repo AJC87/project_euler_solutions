@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 const (
-	start = 3
+	start  = 3
 	finish = 1000
 )
 
